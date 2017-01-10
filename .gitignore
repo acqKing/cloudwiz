@@ -1,0 +1,17 @@
+node_modules
+maps
+.idea
+.sass-cache
+
+# Build files
+dist/
+
+# OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs
+logs
+*.logs
+
