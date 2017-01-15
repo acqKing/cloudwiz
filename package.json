@@ -1,0 +1,41 @@
+{
+  "name": "cloudwiz",
+  "version": "1.0.0",
+  "description": "cloudwiz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acqKing/cloudwiz.git"
+  },
+  "author": "fangqing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acqKing/cloudwiz/issues"
+  },
+  "homepage": "https://github.com/acqKing/cloudwiz#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.1",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.6",
+    "browserify": "^13.3.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-filter": "^5.0.0",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-less": "^3.3.0",
+    "gulp-load-plugins": "^1.4.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^2.4.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp.spritesmith": "^6.3.0",
+    "uglify": "^0.1.5"
+  }
+}
